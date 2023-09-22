@@ -1,4 +1,4 @@
-FROM arm64v8/eclipse-temurin:20-alpine
+FROM eclipse-temurin:20-alpine
 
 RUN mkdir /opt/app
 
